@@ -1,5 +1,4 @@
 User-agent: *
-Disallow: /WhiteTigerType/private/
 Allow: /
 
 Sitemap: https://quartzpiece.github.io/WhiteTigerType/sitemap.xml

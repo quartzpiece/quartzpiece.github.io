@@ -3,6 +3,7 @@
 > 내가 고른 글(지문)로 한글 타자 연습을 하는 무료 웹 사이트. 설치 없이 브라우저에서 바로 쓴다.
 
 주소: https://quartzpiece.github.io/WhiteTigerType/
+소개·사용법·자주 묻는 질문: https://quartzpiece.github.io/WhiteTigerType/about/
 
 ## 기능
 - 내 지문: 원하는 글을 붙여 넣어 저장하고, 한 문장씩 친다
